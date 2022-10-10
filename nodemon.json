@@ -1,0 +1,5 @@
+{
+  "verbose": true,
+  "ignore": [".git", "node_module", "database.db"],
+  "delay": 1000
+}
